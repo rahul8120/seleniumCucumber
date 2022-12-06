@@ -53,6 +53,7 @@ WebDriver driver;
 	public void logout()
 	{
 		driver.findElement(By.xpath("//a[@style='color:#ffffff']")).click(); //logout
+		driver.close();
 	}
 	
 }

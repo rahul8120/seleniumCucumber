@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: JunitRunner.runner_class
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.18 s - in JunitRunner.runner_class
